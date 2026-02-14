@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "path": "D:/git/ec/ec-mkt-service"
+        },
+        {
+            "path": "D:/git/central-service/central-mkt-service"
+        },
+        {
+            "path": "D:/git/central-web/central-mkt-web"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/node_modules": true,
+            "**/bower_components": true,
+            "**/.idea": true,
+            "**/.vscode": true,
+            "**/dist": true
+        }
+    }
+}

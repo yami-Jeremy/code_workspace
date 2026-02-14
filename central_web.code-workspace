@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "path": "D:/git/central-web/central-content-web"
+        },
+        {
+            "path": "D:/git/central-web/central-mkt-web"
+        },
+        {
+            "path": "D:/git/central-web/central-sns-web"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/node_modules": true,
+            "**/bower_components": true,
+            "**/.idea": true,
+            "**/.vscode": true,
+            "**/dist": true
+        }
+    }
+}

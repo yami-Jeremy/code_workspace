@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "path": "D:/git/ec/ec-sns-service"
+        },
+        {
+            "path": "D:/git/central-service/central-sns-service"
+        },
+        {
+            "path": "D:/git/central-web/central-sns-web"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/node_modules": true,
+            "**/bower_components": true,
+            "**/.idea": true,
+            "**/.vscode": true,
+            "**/dist": true
+        }
+    }
+}

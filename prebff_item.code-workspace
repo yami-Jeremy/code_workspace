@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "D:/git/ec/ec-item-service"
+        },
+        {
+            "path": "D:/git/ec/ec-prebff-service"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/node_modules": true,
+            "**/bower_components": true,
+            "**/.idea": true,
+            "**/.vscode": true,
+            "**/dist": true
+        }
+    }
+}

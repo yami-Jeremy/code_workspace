@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "path": "D:/git/central-service/central-im-service"
+        },
+        {
+            "path": "D:/git/central-service/central-mkt-service"
+        },
+        {
+            "path": "D:/git/central-service/central-content-service"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/node_modules": true,
+            "**/bower_components": true,
+            "**/.idea": true,
+            "**/.vscode": true,
+            "**/dist": true
+        }
+    }
+}
